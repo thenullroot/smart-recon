@@ -1,0 +1,9 @@
+admin
+api
+dev
+test
+staging
+mail
+blog
+portal
+dashboard

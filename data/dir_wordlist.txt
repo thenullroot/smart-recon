@@ -1,0 +1,17 @@
+admin
+login
+dashboard
+panel
+api
+config
+backup
+test
+dev
+staging
+uploads
+images
+css
+js
+.git
+.env
+server-status
