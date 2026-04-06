@@ -1,9 +1,18 @@
-🔍 Smart Recon
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Made By](https://img.shields.io/badge/Made%20By-thenullroot-orange)
+![GitHub Repo stars](https://img.shields.io/github/stars/thenullroot/smart-recon?style=social)
 
-A Python-based reconnaissance automation tool for performing structured information gathering on target domains.
+
+# 🔍 Smart Recon
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aniket-nayak-634495317/)
+
+## A Python-based reconnaissance automation tool for performing structured information gathering on target domains.
 
 
-💡 Why Smart Recon?
+### 💡 Why Smart Recon?
 
 Unlike many heavy and complex recon tools, Smart Recon is designed with simplicity and clarity in mind.
 
@@ -16,7 +25,7 @@ Unlike many heavy and complex recon tools, Smart Recon is designed with simplici
 - 🛑 Interrupt-safe – handles Ctrl + C gracefully
 
 
-❓ Why Choose Smart Recon?
+### ❓ Why Choose Smart Recon?
 
 Smart Recon is not designed to replace advanced recon frameworks —
 it is built to simplify and demonstrate how reconnaissance works internally.
@@ -32,7 +41,7 @@ You should use this tool if you want:
 Instead of being feature-heavy, Smart Recon focuses on clarity, structure, and learning value.
 
 
-🚀 Features
+### 🚀 Features
 
 - 🔎 Subdomain Enumeration
 - 🌐 Port Scanning (80, 443)
@@ -43,7 +52,7 @@ Instead of being feature-heavy, Smart Recon focuses on clarity, structure, and l
 - ⚡ Safe interruption (Ctrl + C support)
 
 
-🧠 What I Learned
+### 🧠 What I Learned
 
 This project reflects my understanding of how real-world reconnaissance tools are designed.
 
@@ -56,7 +65,7 @@ This project reflects my understanding of how real-world reconnaissance tools ar
 
 
 
-🎯 Future Improvements
+### 🎯 Future Improvements
 
 - 🔗 Add multi-threading for faster scans
 - 🌍 Expand port scanning coverage
@@ -66,7 +75,7 @@ This project reflects my understanding of how real-world reconnaissance tools ar
 
 
 
-⚙️ Installation
+### ⚙️ Installation
 
 ```bash
 git clone https://github.com/thenullroot/smart-recon.git
@@ -77,7 +86,7 @@ pip install -r requirements.txt
 ```
 
 
-🧪 Usage
+### 🧪 Usage
 
 Basic scan:
 ```bash
@@ -104,15 +113,15 @@ python recon.py https://example.com --output result.txt
 
 
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This tool is intended for educational and authorized testing purposes only.
 Do not use it on systems without permission.
 
 
 
-👨‍💻 Author
+# 👨‍💻 Author
 
-GitHub: https://github.com/thenullroot
+#### GitHub: https://github.com/thenullroot
 
-LinkedIn: https://www.linkedin.com/in/aniket-nayak-634495317/
+#### LinkedIn: https://www.linkedin.com/in/aniket-nayak-634495317/
