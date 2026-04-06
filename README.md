@@ -68,6 +68,7 @@ This project reflects my understanding of how real-world reconnaissance tools ar
 
 ⚙️ Installation
 
+```bash
 git clone https://github.com/thenullroot/smart-recon.git
 
 cd smart-recon
@@ -77,27 +78,28 @@ python3 -m venv venv
 source venv/bin/activate
 
 pip install -r requirements.txt
-
+```
 
 
 🧪 Usage
 
 Basic scan:
-
+```bash
 python recon.py https://example.com
+```
 
 Filter output:
-
+```bash
 python recon.py https://example.com --filter
-
+```
 Custom wordlists:
-
+```bash
 python recon.py https://example.com --subs subdomains.txt --dirs directories.txt
-
+```
 Save results:
-
+```bash
 python recon.py https://example.com --output result.txt
-
+```
 
 
 ## 📸 Screenshot
