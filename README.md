@@ -70,13 +70,9 @@ This project reflects my understanding of how real-world reconnaissance tools ar
 
 ```bash
 git clone https://github.com/thenullroot/smart-recon.git
-
 cd smart-recon
-
 python3 -m venv venv
-
 source venv/bin/activate
-
 pip install -r requirements.txt
 ```
 
